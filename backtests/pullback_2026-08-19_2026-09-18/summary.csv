@@ -1,0 +1,10 @@
+﻿metric,value
+candidate_count,45
+entry_count,28
+entry_rate_pct,62.22222222222222
+tp_first,20
+stop_first,8
+ambiguous,0
+unresolved,0
+no_entry,17
+resolved_win_rate_pct,71.42857142857143
